@@ -1,1 +1,0 @@
-# Integrador-de-arquitectura-de-BD
